@@ -3,7 +3,7 @@
 penjelasan file file tersebut yaitu (1) file-file notebook (.en), (2) folder Images beserta semua file isinya, (3) file-file LaTeX (.tex), (4) file-file Markdown (.md), dan file-file PDF, (5) file-file gambar lain sebagai pendukung file-file tersebut 
 
 - [1. FILE EMT]
-  * [APLIKASI-KOMPUTER.tex](#APLIKASI-KOMPUTER.tex)
+  * [APLIKASI KOMPUTER.tex](#APLIKASI -KOMPUTER.tex)
   * [1.2 Predefined Markdown badges](#12-predefined-markdown-badges)
   * [1.3 Predefined URL badges](#13-predefined-url-badges)
   * [1.4. Badge generators](#14-badge-generators)
