@@ -1,4 +1,4 @@
-# Aplikasi-Komputer
+#izaa19.github.io
 
 Buku ini disusun untuk memberikan pemahaman yang mendalam tentang penggunaan perangkat lunak EMT (Engineering Mathematics Toolbox) dalam bidang matematika, khususnya yang terkait dengan penerapan konsep-konsep matematika di dunia teknik dan sains. EMT adalah alat bantu yang dirancang untuk mempermudah perhitungan dan pemodelan masalah-masalah matematika yang kompleks dengan cara yang lebih efisien dan akurat. Dalam buku ini, pembaca akan dibimbing untuk memahami cara menggunakan EMT untuk menyelesaikan berbagai jenis permasalahan matematis, mulai dari aljabar linier, kalkulus, hingga persamaan geometri.
 
